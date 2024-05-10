@@ -1,1 +1,1 @@
-Folder for storing code editors configuration.
+Folder for configuration.
